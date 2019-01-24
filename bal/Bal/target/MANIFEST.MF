@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: jorge
+Build-Jdk: 1.8.0_191
+Created-By: Maven Integration for Eclipse
+Class-Path:
+mssql-jdbc-7.0.0.jre8.jar
+commons-beanutils-1.9.3.jar
+commons-digester-2.1.jar
+commons-loggin-1.1.1.jar
+itext-2.1.7.js6.jar
+jasperreports-6.6.0.jar
+Main-Class: Telas.Client
